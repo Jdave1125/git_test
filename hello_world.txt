@@ -1,0 +1,2 @@
+Hello world, this is my first change of this 
+I love practicing Git, and "gitting" to learn more!
